@@ -11,5 +11,5 @@ Features that are working at the moment.
 
 We are working on auto play and auto queue
 
-Our discord : https://discord.gg/vJrrvx2BZp
-Our forum : https://autoxbp.tk/
+Our Discord : https://discord.gg/vJrrvx2BZp
+Our Forum : https://autoxbp.tk/
