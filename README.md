@@ -1,15 +1,31 @@
-8 Ball Pool - Working on 5.8.1 
+8 Ball Pool - Working on 5.8.1
+
+
 
 Features that are working at the moment.
 
-[Prediction] 
+[Auto Play]
 
-- Draw ball path for both players
-- Draw pocket with filled pockets and pocket transparency
-- Ball attributes with filled circles, line thicknes, line transparency and destination transparency
-- Adblock
+Humanize and max power
+Angle rotation
+Delay shot
 
-We are working on auto play and auto queue
+[Aim]
 
-Our discord : https://discord.gg/BdnQM542Nb
+Predicts the trajectory of the shot, without automatically shooting. You have to use the power bar.
+
+[None]
+
+Predict the pattern of the shot
+
+[Misc]
+
+Adblock - Coming soon
+Save, load config - Coming soon
+
+
+
+Our discord : https://discord.gg/autox
 Our forum : https://autoxbp.tk/
+
+[ Latest update : 08.08.2022 ] 
