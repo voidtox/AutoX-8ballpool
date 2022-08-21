@@ -26,6 +26,6 @@ Save, load config - Coming soon
 
 
 Our discord : https://discord.gg/autox
-Our forum : https://autoxbp.tk/
+Our forum : https://autox.fun/
 
 [ Latest update : 08.08.2022 ] 
